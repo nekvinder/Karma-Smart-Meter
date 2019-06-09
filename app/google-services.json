@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26074686012",
+    "firebase_url": "https://karma-smart-meter.firebaseio.com",
+    "project_id": "karma-smart-meter",
+    "storage_bucket": "karma-smart-meter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26074686012:android:162949edcf7e4649",
+        "android_client_info": {
+          "package_name": "com.bytekarma.karmasmartmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26074686012-a1sveq6cmudl6v6lgr5fhv06n20vtodl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bytekarma.karmasmartmeter",
+            "certificate_hash": "830d8e393f9f8dd2bde136cd57f61414c35235fa"
+          }
+        },
+        {
+          "client_id": "26074686012-lliuam3556fe950fk8rol9ne4n47jq9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC26o4jYyslGQZYXJ8MBBNT7BZoTpgMMEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26074686012-lliuam3556fe950fk8rol9ne4n47jq9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
